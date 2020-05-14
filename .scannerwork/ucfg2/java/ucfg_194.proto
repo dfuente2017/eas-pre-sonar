@@ -1,0 +1,48 @@
+
+(com.jcraft.jorbis.VorbisFile#get_data()IU
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javax x("7*Þ
+6U
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java~ ~(­
+ª
+U
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java~ ~(
+%1java.io.InputStream"__id*0*.
+com.jcraft.jorbis.VorbisFile"
+
+datasourcer
+p
+U
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java~+ ~(4	
+%2int"__id*
+""ØÕ
+U
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java~ ~(5	
+%3int"java.io.InputStream#read([BII)I*
+
+%1java.io.InputStream*
+
+bufferbyte[]*
+""*
+	
+%2int2
+read([BII)*
+1*Î
+7U
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javay y(r
+p
+U
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javay y(!	
+%0int"__id*
+""y
+w
+U
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaz z(
+bufferbyte[]"__id*
+""*
+6*¿
+1W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java‰ ‰("a
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java‰ ‰(
+""B 
+com.jcraft.jorbis.VorbisFile

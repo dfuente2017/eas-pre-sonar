@@ -1,0 +1,165 @@
+
+Acom.jcraft.jroar.Pls#getURL(Ljava/lang/String;)Ljava/lang/String;M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.java@ @("29*Î
+14M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaP
+ P( å
+â
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaP
+ P( 
+linejava.lang.String"__id*
+
+%7java.lang.String*
+3
+11*÷
+25M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaE E(0ò
+ï
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaE E(0
+urlcjava.net.URLConnection"__id*
+
+%3java.net.URLConnectionﬂ‹
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaF F(%
+%4java.io.InputStream"<java.net.URLConnection#getInputStream()Ljava/io/InputStream;* 
+
+urlcjava.net.URLConnection2getInputStream()*
+22*≤
+26M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaD D(É
+Ä
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaD D(
+urljava.net.URL"__id*
+
+%1java.net.URL–Õ
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaE E(/
+%3java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+urljava.net.URL2openConnection()*
+25* 
+16M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaP P(Ó
+Î
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaP P( 
+%7java.lang.String"Fcom.jcraft.jroar.Pls#readline(Ljava/io/InputStream;)Ljava/lang/String;*"
+com.jcraft.jroar.Pls* 
+
+pstreamjava.io.InputStream*
+14*Ñ
+27M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaD D(sq
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaD D(
+%1java.net.URL"java.net.URL≥
+∞
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaD D(
+%2"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%1java.net.URL*
+
+plsjava.lang.String*
+26*¿
+29M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaA A(
+}
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaA A(
+pstreamjava.io.InputStream"__id*
+""€ÿ
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaB B( 
+%0boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+plsjava.lang.String*	
+http://2startsWith(Ljava/lang/String;)*
+27
+19
+20*◊
+19M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaN N(y
+w
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaN N(
+linejava.lang.String"__id*
+""*
+3
+16*ø
+1M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.java] ]("k
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.java] ](
+
+linejava.lang.String*Ç
+3M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.java\ \(®•
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.java\ \(
+%11void"java.io.InputStream#close()V* 
+
+pstreamjava.io.InputStream2close()*
+1*¿
+5M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaX X(÷”
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaX X(!
+%10java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+linejava.lang.String*2*
+""2substring(II)ç
+ä
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaX X(!
+linejava.lang.String"__id*
+
+%10java.lang.String*
+3*¨
+20M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaM M(!"W
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaM M("
+""*˙
+10M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaS S(ß§
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaS S("
+%9byte[]"java.lang.String#getBytes()[B*
+
+linejava.lang.String2
+getBytes()v
+t
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaS S(#
+foobyte[]"__id*
+
+%9byte[]*
+5*ı
+22M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaF F(%ï
+í
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaF F(%
+pstreamjava.io.InputStream"__id*
+
+%4java.io.InputStream*
+19
+20*æ
+11M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaR	 R(€ÿ
+M
+CD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Pls.javaR	 R("
+%8boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+linejava.lang.String*
+
+File1=2startsWith(Ljava/lang/String;)*
+3
+16
+10:
+plsjava.lang.StringB"
+com.jcraft.jroar.Pls

@@ -1,0 +1,224 @@
+
+(com.jcraft.jroar.Source#parseHeader([B)ZR
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java≤
+ ≤("58*∑
+46R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java◊ ◊(Ä
+~
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java◊ ◊(
+%12java.io.PrintStream"__id*
+""˚¯
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java◊ ◊(@
+%13void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%12java.io.PrintStream*(&
+$Error reading initial header packet.2println(Ljava/lang/String;)"\
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaÿ ÿ(
+""*⁄
+57R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java¿ ¿(o
+m
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java¿& ¿(-	
+%3int"__id*
+""Á‰
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java¿ ¿(.	
+%4int"(java.io.ByteArrayInputStream#read([BII)I*$
+"
+isjava.io.ByteArrayInputStream*
+
+bufferbyte[]*
+""*
+	
+%3int2
+read([BII)*%
+46
+2
+48
+4
+52
+20
+31
+22
+33
+1*¡
+24R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java¯ ¯(Ä
+~
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java¯ ¯(
+%21java.io.PrintStream"__id*
+""ÖÇ
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java¯ ¯(I
+%22void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%21java.io.PrintStream*20
+.End of file before finding all Vorbis headers!2println(Ljava/lang/String;)"\
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java˘
+ ˘(
+""*—
+58R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java≥ ≥(ôñ
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaª  ª(4"
+%0java.io.ByteArrayInputStream"java.io.ByteArrayInputStream¡
+æ
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaª ª(<
+%1"(java.io.ByteArrayInputStream#<init>([B)V*$
+"
+%0java.io.ByteArrayInputStream*
+
+headerbyte[]ß
+§
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaª ª(="
+isjava.io.ByteArrayInputStream"__id*$
+"
+%0java.io.ByteArrayInputStreamo
+m
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaæ æ(	
+%2int"__id*
+""v
+t
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaø ø(
+bufferbyte[]"__id*
+""*
+57*¬
+48R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java“ “(Ä
+~
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java“ “(
+%10java.io.PrintStream"__id*
+""ÜÉ
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java“ “(K
+%11void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%10java.io.PrintStream*31
+/Error reading first page of Ogg bitstream data.2println(Ljava/lang/String;)"\
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java” ”(
+""*µ
+1R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java” ”("\
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java” ”(
+""*µ
+2R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java– –("\
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java– –(
+""*µ
+4R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java§ §("\
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java§ §(
+""*º
+50R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java» »(
+}
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java» »(
+%8java.io.PrintStream"__id*
+""Çˇ
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java» »(I
+
+%9void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%8java.io.PrintStream*1/
+-Input does not appear to be an Ogg bitstream.2println(Ljava/lang/String;)"\
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java… …(
+""*∂
+51R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java« «($"\
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java« «(%
+""*”
+52R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java«	 «(o
+m
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java« «(	
+%7int"__id*
+""*
+50
+51*»
+30R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaÚ Ú(p
+n
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaÚ* Ú(1
+
+%17int"__id*
+""ÈÊ
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaÚ Ú(2
+
+%18int"(java.io.ByteArrayInputStream#read([BII)I*$
+"
+isjava.io.ByteArrayInputStream*
+
+bufferbyte[]*
+""*
+
+
+%17int2
+read([BII)*
+24
+31
+22
+33*∂
+20R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaó ó("\
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaó ó(
+""*»
+31R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java (p
+n
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.java (
+
+%16int"__id*
+""v
+t
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaÒ Ò(
+bufferbyte[]"__id*
+""*
+30*∂
+22R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaè è("\
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaè è(
+""*∂
+33R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaÁ	 Á(Ä
+~
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaÁ	 Á(
+%14java.io.PrintStream"__id*
+""˙˜
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaÁ	 Á(B
+%15void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%14java.io.PrintStream*'%
+#Corrupt secondary header.  Exiting.2println(Ljava/lang/String;)"\
+R
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaË Ë(
+"":
+headerbyte[]B
+com.jcraft.jroar.Source

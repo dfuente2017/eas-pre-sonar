@@ -1,0 +1,62 @@
+
+/com.jcraft.jorbis.StaticCodeBook#unquantize()[F[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.java˛
+ ˛("3"1*«
+2[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaÆ Æ("e
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaÆ Æ(
+""*í
+3[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaÅ Å(–
+Õ
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaÇ Ç((
+%3float"3com.jcraft.jorbis.StaticCodeBook#float32_unpack(I)F*$""
+ com.jcraft.jorbis.StaticCodeBook*
+""–
+Õ
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaÉ É()
+%4float"3com.jcraft.jorbis.StaticCodeBook#float32_unpack(I)F*$""
+ com.jcraft.jorbis.StaticCodeBook*
+""*
+
+2
+8
+22*é
+18[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaó ó(°
+û
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaô	 ô(
+%1float"java.lang.Math#abs(F)F*"
+java.lang.Math*
+""*
+2
+18*å
+8[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.java§ §(°
+û
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.java¶	 ¶(
+%2float"java.lang.Math#abs(F)F*"
+java.lang.Math*
+""*
+2
+8*∂
+22[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaã ã(…
+∆
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaí í(	
+%0int"6com.jcraft.jorbis.StaticCodeBook#maptype1_quantvals()I*$"
+ com.jcraft.jorbis.StaticCodeBook*
+2
+18*«
+1[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.java∞ ∞("e
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.java∞ ∞(
+""B$"
+ com.jcraft.jorbis.StaticCodeBook

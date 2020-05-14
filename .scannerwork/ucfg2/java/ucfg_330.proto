@@ -1,0 +1,58 @@
+
+3com.jcraft.jroar.Proxy#toString()Ljava/lang/String;Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Proxy.javaÈ È("1*Ô
+
+1Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Proxy.javaÉ É(¥
+¢
+Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Proxy.javaÉ É(
+%0java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+""œ
+™
+Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Proxy.javaÉ É("
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+ me=˜
+•
+Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Proxy.javaÉ# É(%
+%2java.lang.Thread"__id*"* 
+com.jcraft.jroar.Proxy"
+me¬
+©
+Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Proxy.javaÉ É(%
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.Thread¤
+¡
+Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Proxy.javaÉ É(4
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+, bitStream=¢
+Ÿ
+Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Proxy.javaÉ5 É(>
+%5java.io.InputStream"__id*)*'
+com.jcraft.jroar.Proxy"
+	bitStream¯
+¬
+Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Proxy.javaÉ É(>
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.io.InputStream"m
+Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Proxy.javaÉ É(?
+
+%6java.lang.StringB
+com.jcraft.jroar.Proxy

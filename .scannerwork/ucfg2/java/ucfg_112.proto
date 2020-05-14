@@ -1,0 +1,77 @@
+
+Fcom.jcraft.jorbis.Comment#query(Ljava/lang/String;I)Ljava/lang/String;R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javao o("8*â
+3R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javau u(!Ä~
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javau u(
+%4java.lang.String"java.lang.Stringº
+π
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javau u(C
+%5"java.lang.String#<init>([BII)V*
+
+%4java.lang.String*
+
+commentbyte[]*
+""*
+"""n
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javau u(D
+
+%4java.lang.String*ê
+6R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javar r( ü
+ú
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javar r( 
+%2byte[][]"__id*0*.
+com.jcraft.jorbis.Comment"
+user_commentsã
+à
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javar r(%
+%3byte[]"
+__arrayGet*
+
+%2byte[][]*
+""
+}
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javar r(&
+commentbyte[]"__id*
+
+%3byte[]*
+3
+1*µ
+7R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javaq q("\
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javaq q(
+""*–
+8R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javap p(´®
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javap p( 
+%0byte[]"java.lang.String#getBytes()[B*
+
+tagjava.lang.String2
+getBytes()¿
+Ω
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javap p((	
+%1int"%com.jcraft.jorbis.Comment#query([BI)I*
+com.jcraft.jorbis.Comment*
+
+%0byte[]*
+""*
+6
+7*µ
+1R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javax x("\
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/Comment.javax x(
+"":
+tagjava.lang.String:
+""B
+com.jcraft.jorbis.Comment

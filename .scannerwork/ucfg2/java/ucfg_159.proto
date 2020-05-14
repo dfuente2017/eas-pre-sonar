@@ -1,0 +1,191 @@
+
+Bcom.jcraft.jroar.Page#decode(Ljava/lang/String;)Ljava/lang/String;N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java,	 ,("30*÷
+15N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java6* 6(-q
+o
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java6* 6(-	
+%4int"__id*
+
+
+%10int*
+5
+6
+9
+12*’
+16N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java6 6( p
+n
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java6 6('	
+%4int"__id*
+	
+%9int*
+5
+6
+9
+12*—
+27N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java1 1(ﬁ€
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java1 1(+
+%3java.lang.StringBuffer"8java.lang.StringBuffer#append(C)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+""2	append(C)*
+3
+15
+27
+16
+19
+22
+1*’
+19N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java5 5( p
+n
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java5 5('	
+%4int"__id*
+	
+%7int*
+5
+6
+9
+12*ê
+1N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.javaC C(Õ 
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.javaC C(
+%20java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuffer2
+toString()"k
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.javaC C(
+
+%20java.lang.String*—
+3N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.javaA A(ﬂ‹
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.javaA A(
+%19java.lang.StringBuffer"8java.lang.StringBuffer#append(C)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+""2	append(C)*
+3
+15
+27
+16
+19
+22
+1*—
+4N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java9 ;(-ﬂ‹
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java= =(
+%18java.lang.StringBuffer"8java.lang.StringBuffer#append(C)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+""2	append(C)*
+3
+15
+27
+16
+19
+22
+1*Ã
+5N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java;* ;(-r
+p
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java;* ;(-
+
+%11int"__id*
+
+
+%17int*
+4*Ã
+6N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java; ;( r
+p
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java; ;('
+
+%11int"__id*
+
+
+%16int*
+4*Ã
+9N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java: :( r
+p
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java: :('
+
+%11int"__id*
+
+
+%14int*
+4*◊
+30N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java. .(ß§
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java. .(
+%0byte[]"java.lang.String#getBytes()[B*
+
+argjava.lang.String2
+getBytes()w
+u
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java. .(
+foobyte[]"__id*
+
+%0byte[]âÜ
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java/ /($
+%1java.lang.StringBuffer"java.lang.StringBufferõ
+ò
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java/ /(&
+%2" java.lang.StringBuffer#<init>()V*
+
+%1java.lang.StringBufferó
+î
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java/ /('
+sbjava.lang.StringBuffer"__id*
+
+%1java.lang.StringBuffer*
+3
+15
+27
+16
+19
+22
+1*’
+22N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java4 4( p
+n
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java4 4($	
+%4int"__id*
+	
+%5int*
+5
+6
+9
+12*Õ
+12N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java9 9( r
+p
+N
+DD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Page.java9 9($
+
+%11int"__id*
+
+
+%12int*
+4:
+argjava.lang.StringB
+com.jcraft.jroar.Page

@@ -1,0 +1,32 @@
+
+Lcom.jcraft.jroar.Stats#wrapln(Ljava/lang/StringBuffer;[CLjava/lang/String;)VQ
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Stats.java§ §("1*£
+1Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Stats.java¨ ¨(–
+“
+Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Stats.java¨ ¨(
+
+%0void"Jcom.jcraft.jroar.Stats#wrap(Ljava/lang/StringBuffer;[CLjava/lang/String;)V*
+com.jcraft.jroar.Stats*
+
+sbjava.lang.StringBuffer*
+
+tagchar[]*
+
+foojava.lang.StringÔ
+Ñ
+Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Stats.java¨ ¨(
+
+%1void"4com.jcraft.jroar.Stats#ln(Ljava/lang/StringBuffer;)V*
+com.jcraft.jroar.Stats*
+
+sbjava.lang.StringBuffer"[
+Q
+ED:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Stats.java© ©(
+"":
+sbjava.lang.StringBuffer:
+tagchar[]:
+foojava.lang.StringB
+com.jcraft.jroar.Stats

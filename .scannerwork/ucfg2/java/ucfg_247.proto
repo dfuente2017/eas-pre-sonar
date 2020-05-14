@@ -1,0 +1,25 @@
+
+6com.jcraft.jroar.MySocket#readLine()Ljava/lang/String;R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/MySocket.javaB B("3*Ç
+2R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/MySocket.javaC	 C(,"n
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/MySocket.javaC	 C(,
+
+%1java.lang.String*ä
+3R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/MySocket.javaC C(°
+­
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/MySocket.javaC C(
+%0java.io.DataInputStream"__id*2*0
+com.jcraft.jroar.MySocket"
+dataInputStreamÒÏ
+R
+HD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/MySocket.javaC C(*
+%1java.lang.String"4java.io.DataInputStream#readLine()Ljava/lang/String;*
+
+%0java.io.DataInputStream2
+readLine()*
+2B
+com.jcraft.jroar.MySocket

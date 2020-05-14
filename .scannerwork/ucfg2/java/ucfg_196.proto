@@ -1,0 +1,123 @@
+
+<com.jcraft.jorbis.VorbisFile#bisect_forward_serialno(JJJII)IW
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaÉ É("18"8*¶
+2W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaî î(&u
+s
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaî î(&
+
+%11int"__id*
+"""a
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaî î('
+""*¶
+14W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaÚ Ú('t
+r
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaÚ Ú('	
+%4int"__id*
+"""a
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaÚ Ú((
+""*è
+3W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaí
+ í(!Š‡
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaí
+ í(J
+%9"<com.jcraft.jorbis.VorbisFile#bisect_forward_serialno(JJJII)I* 
+com.jcraft.jorbis.VorbisFile*
+""*
+""*
+""*
+""*
+""2bisect_forward_serialno(JJJII)u
+s
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaî î(
+
+%10int"__id*
+""*
+2
+1*ð
+15W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaØ Ø(À
+½
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaØ Ø(
+
+%1void",com.jcraft.jorbis.VorbisFile#seek_helper(J)V* 
+com.jcraft.jorbis.VorbisFile*
+""Ê
+Ç
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaÙ
+ Ù(!
+%2"4com.jcraft.jorbis.VorbisFile#get_next_page(LPage;J)I* 
+com.jcraft.jorbis.VorbisFile*
+""*
+""t
+r
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaÚ Ú(	
+%3int"__id*
+""*
+14
+18
+8*Ù
+18W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaÐ Ð(t
+r
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaÑ Ñ('	
+%0int"__id*
+""*
+15*µ
+7W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaå å(%t
+r
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaå å(%	
+%8int"__id*
+"""a
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaå å(&
+""*í
+8W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaã ã(À
+½
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaã ã(
+
+%5void",com.jcraft.jorbis.VorbisFile#seek_helper(J)V* 
+com.jcraft.jorbis.VorbisFile*
+""Ê
+Ç
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaä ä(
+%6"4com.jcraft.jorbis.VorbisFile#get_next_page(LPage;J)I* 
+com.jcraft.jorbis.VorbisFile*
+""*
+""t
+r
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaå å(	
+%7int"__id*
+""*	
+3
+7
+1*¿
+1W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javað ð("a
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javañ ñ(
+"":
+"":
+"":
+"":
+"":
+""B 
+com.jcraft.jorbis.VorbisFile

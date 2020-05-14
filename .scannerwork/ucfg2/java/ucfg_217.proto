@@ -1,0 +1,56 @@
+
+*com.jcraft.jorbis.VorbisFile#time_seek(F)IW
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaı ı("11*∂
+4W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaÜ Ü(œÃ
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaá á("
+%3float"+com.jcraft.jorbis.VorbisFile#time_total(I)F* 
+com.jcraft.jorbis.VorbisFile*
+""2time_total(I)*
+4
+1*ä
+7W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaˇ ˇ(»≈
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaÄ Ä(
+
+%2void",com.jcraft.jorbis.VorbisFile#decode_clear()V* 
+com.jcraft.jorbis.VorbisFile2decode_clear()"a
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaÅ Å(
+""*¿
+10W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java¸ ¸("a
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java¸ ¸(
+""*ç
+11W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java¯ ¯(Ã…
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java˘ ˘( 
+
+%0long"*com.jcraft.jorbis.VorbisFile#pcm_total(I)J* 
+com.jcraft.jorbis.VorbisFile*
+""2pcm_total(I)œÃ
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java˙ ˙(#
+%1float"+com.jcraft.jorbis.VorbisFile#time_total(I)F* 
+com.jcraft.jorbis.VorbisFile*
+""2time_total(I)*
+4
+7
+10
+1*ã
+1W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaç ç("…∆
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaé é(	
+%4int")com.jcraft.jorbis.VorbisFile#pcm_seek(J)I* 
+com.jcraft.jorbis.VorbisFile*
+""2pcm_seek(J)"a
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.javaé é(
+"":
+""B 
+com.jcraft.jorbis.VorbisFile

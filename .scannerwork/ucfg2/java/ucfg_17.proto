@@ -1,0 +1,56 @@
+
+1com.jcraft.jorbis.StaticCodeBook#float32_pack(F)J[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.java≈ ≈("1*Ä
+1[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaÕ Õ(¢
+ü
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaÕ Õ(%
+%0double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""†
+ù
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaÕ& Õ(1
+%1double"java.lang.Math#log(D)D*"
+java.lang.Math*2§
+°
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaÕ Õ(2
+%2double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+""x
+v
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaŒ& Œ(-	
+%3int"__id*
+""´
+®
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaŒ Œ(5
+%4double"java.lang.Math#pow(DD)D*"
+java.lang.Math*
+""*
+""´
+®
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaŒ Œ(6
+%5double"java.lang.Math#rint(D)D*"
+java.lang.Math*
+
+%4doublex
+v
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaœ œ(	
+%6int"__id*
+""x
+v
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.javaœ œ(#	
+%7int"__id*
+"""e
+[
+OD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/StaticCodeBook.java– –(
+"":
+""B$""
+ com.jcraft.jorbis.StaticCodeBook

@@ -1,0 +1,64 @@
+
+Ncom.jcraft.jroar.Source#getSource(Ljava/lang/String;)Lcom/jcraft/jroar/Source;P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaM M("6*‡
+2P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaR R(É
+Ä
+P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaR
+ R(
+foocom.jcraft.jroar.Source"__id*
+""*
+1*õ
+3P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaQ Q(ª∏
+P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaQ Q()	
+%3int"'com.jcraft.jroar.Source#getListeners()I* 
+
+foocom.jcraft.jroar.Source2getListeners()*
+2
+1*—
+5P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaO O(!†
+ù
+P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaO O(!
+%1java.util.Hashtable"__id*(*&
+com.jcraft.jroar.Source"	
+sources∂
+≥
+P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaO O(1
+%2java.lang.Object"__mapGet*
+
+%1java.util.Hashtable* 
+
+
+mountpointjava.lang.Stringï
+í
+P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaO O(3
+foocom.jcraft.jroar.Source"__id*
+
+%2java.lang.Object*
+3
+1*˝
+6P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaN N(†
+ù
+P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaN N(
+%0java.util.Hashtable"__id*(*&
+com.jcraft.jroar.Source"	
+sources*
+5*À
+1P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaU U("t
+P
+FD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jroar/Source.javaU U( 
+
+foocom.jcraft.jroar.Source:
+
+mountpointjava.lang.StringB"
+com.jcraft.jroar.Source

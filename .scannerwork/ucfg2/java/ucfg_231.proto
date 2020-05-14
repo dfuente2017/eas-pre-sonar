@@ -1,0 +1,31 @@
+
+8com.jcraft.jorbis.VorbisFile$SeekableInputStream#tell()JW
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java¼
+ ¼
+("1*Î
+1W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java½
+ ½
+(Á
+¾
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java½
+ ½
+(
+%0java.io.RandomAccessFile"__id*=*;2
+0com.jcraft.jorbis.VorbisFile$SeekableInputStream"
+rafÈÅ
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java½
+ ½
+(!
+
+%1long"*java.io.RandomAccessFile#getFilePointer()J* 
+
+%0java.io.RandomAccessFile2getFilePointer()"a
+W
+KD:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/VorbisFile.java½
+ ½
+("
+""B42
+0com.jcraft.jorbis.VorbisFile$SeekableInputStream

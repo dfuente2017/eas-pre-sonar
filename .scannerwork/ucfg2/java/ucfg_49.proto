@@ -1,0 +1,50 @@
+
+Jcom.jcraft.jorbis.CodeBook#make_decode_tree()Lcom/jcraft/jorbis/DecodeAux;U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.javaÙ Ù("34*•
+15U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.javaþ þ(²
+¯
+U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.javaþ þ(	
+%3int"#com.jcraft.jorbis.CodeBook#ilog(I)I*"
+com.jcraft.jorbis.CodeBook*
+""*
+1*¼
+33U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.javaà à(!"_
+U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.javaà à(#
+""*œ
+34U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.javaÚ Ú(š—
+U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.javaÛ Û(!
+%0com.jcraft.jorbis.DecodeAux"com.jcraft.jorbis.DecodeAux¬
+©
+U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.javaÛ Û(
+%1"%com.jcraft.jorbis.DecodeAux#<init>()V*#
+!
+%0com.jcraft.jorbis.DecodeAux§
+¤
+U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.javaÛ Û(  
+tcom.jcraft.jorbis.DecodeAux"__id*#
+!
+%0com.jcraft.jorbis.DecodeAux¾
+»
+U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.javaÞ Þ(6
+%2",com.jcraft.jorbis.CodeBook#make_words([II)[I*"
+com.jcraft.jorbis.CodeBook*
+""*
+""*
+15
+33*×
+1U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.java“ “("{
+U
+ID:/RepositorioGitHubDesktop/eas-pre-sonar/com/jcraft/jorbis/CodeBook.java“ “("
+ 
+tcom.jcraft.jorbis.DecodeAuxB
+com.jcraft.jorbis.CodeBook
